@@ -1,4 +1,11 @@
-Regular Forms
-- Checkbox ve radio button görünümleri sikintili(önemsiz)
+Genel
+- Footer bölümü maalesef layouta uymuyor. Bu yüzden footerda yapilacak bir degisiklik için admin sayfalarinin hepsinde degistirmek zorunda kalacagiz.
+- Sol menü scroll çalismiyor. Bununla ilgilenecegim. Sizde bakin, kontrol edin.
+- Bulundugumuz sayfayi sol menüde renklendirmek gerekiyor. (li etiketinin active classini degistirme olayi)
+- Login Page sayfasini eklemedim. Basli basina sikintiliydi. Biz her türlü login page yazariz.
 
-Extended Forms(Sikintili)
+Formlar
+- Checkbox ve radio buttonlar tasarimsal olarak sikintili.(Önemsiz)
+
+DataTables
+- Font bölümü sikintili.(Düzeltilebilir)

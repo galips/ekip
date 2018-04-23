@@ -1,0 +1,6 @@
+Shop
+- Price Range altindaki fiyat araligi bölümü gözükmüyor. Buna bakmaliyiz.
+- Genellikle farkli controllerlara ayirildi. Admin temasinda bir controller kullanildi.
+
+Contact
+- Map gözükmüyor.(Önemsiz)
